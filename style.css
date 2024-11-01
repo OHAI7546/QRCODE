@@ -1,0 +1,37 @@
+.body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #d0e1f9;  /*Light blue background */
+}
+
+.flex-container{
+    background-color: #ffffff; /* White background */
+    width: 300px;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    text-align: center;
+    font-family: Arial, sans-serif;
+    
+    
+}
+
+.src{
+    background-color: dodgerblue;
+    width:20px;
+    height:auto;
+    padding:20px;
+    border-radius:10px;
+    margin-bottom:20px;
+}
+.h3{
+    color: black;
+}
+.h1{
+    color:dimgrey
+    font-size:14px;
+    line-height:1.5;
+}
